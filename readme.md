@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayush Kumar 👋</h1>
 
 <p align="center">
-  <b>Data & Analytics Analyst · TresVista, Bengaluru</b><br>
+  <b>Data & Analytics Analyst · Financial Firm, Bengaluru</b><br>
   Building intelligent pipelines with Snowflake, dbt, and LLMs · IEEE Published · B.Tech CSE, VIT Vellore
 </p>
 
