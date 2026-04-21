@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ayush Kumar 👋</h1>
 
 <p align="center">
-  <b>Data & Analytics Analyst · Financial Firm, Bengaluru</b><br>
-  Building intelligent pipelines with Snowflake, dbt, and LLMs · IEEE Published · B.Tech CSE, VIT Vellore
+  <b>Data Analyst · Financial Firm, 📍 Bengaluru</b><br>
+  Building intelligent pipelines with Snowflake, dbt, and LLMs · Former Intern at Earnst & Young · IEEE Published · B.Tech CSE, VIT Vellore
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ### About Me
 
-- 🏗️ I build end-to-end data pipelines, AI-powered document processing tools, and analytics dashboards that turn messy data into decisions
-- 🔁 My work spans the full data stack — from ingestion and transformation to LLM-powered extraction, API backends, and business-facing visualizations
-- 🌱 Currently building an end-to-end **donor management dashboard** in Looker Studio with automated Google Sheets notifications
-- 🤖 Deeply focused on **agentic workflows**, intelligent document processing, and text-to-SQL interfaces
-- 📍 Based in Bengaluru, India
+- I build end-to-end data pipelines, AI-powered document processing tools, and analytics dashboards that turn messy data into decisions
+- My work spans the full data stack — from ingestion and transformation to LLM-powered extraction, API backends, and business-facing visualizations
+- Contributing to an end-to-end **donor management** solution for Make-A-Wish, India
+- Deeply focused on **agentic workflows**, intelligent document processing, and text-to-SQL interfaces
+- Based in Bengaluru, India
 
 ---
 
@@ -129,9 +129,9 @@ FastAPI backend for managing financial data across General Partners, Funds, and 
 
 I'm always open to discussing data engineering, LLM applications, and the startup ecosystem.
 
-**🚀 Open for technical bounties:** You can find me actively taking on database systems, Azure, and DevOps challenges on **Boss.dev** a few hours a week.
+**Open for technical bounties:** Looking forward on actively taking on database systems, Azure, and DevOps challenges.
 
-Reach out on [LinkedIn](https://linkedin.com/in/ayushkumar03) or at [ayushkumar.ae@gmail.com](mailto:ayushkumar.ae@gmail.com)
+Reach out on [LinkedIn](https://linkedin.com/in/ayushkumar03) or at [pin.ayush@gmail.com](mailto:pin.ayush@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushkr03&color=blue&style=flat" alt="Profile views" />
