@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ayush Kumar 👋</h1>
+<h1 align="center">Hi, I'm Ayush 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · Financial Firm, 📍 Bengaluru</b><br>
+  <b>Data Analyst · Financial Firm, 📍Bengaluru</b><br>
   Building intelligent pipelines with Snowflake, dbt, and LLMs · Former Intern at Earnst & Young · IEEE Published · B.Tech CSE, VIT Vellore
 </p>
 
