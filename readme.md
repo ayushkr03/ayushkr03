@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ayushkumar03"><img src="https://img.shields.io/badge/LinkedIn-ayushkumar03-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ayushkumar.ae@gmail.com"><img src="https://img.shields.io/badge/Email-ayushkumar.ae@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pin.ayush@gmail.com"><img src="https://img.shields.io/badge/Email-pin.ayush@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ayushkr03"><img src="https://img.shields.io/badge/GitHub-ayushkr03-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
